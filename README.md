@@ -15,8 +15,7 @@ With this scrpit you can have a 3D 1. & 3. person movement in your game.
 
 # 2. Installation
 ## 2.1. Sample Scene
-All "Project Files" are part of the sample scene.
-Import them to test the script in Unity.
+Import the [project files](https://github.com/Engin1999/Unity-3D-Rigidbody-Movement/tree/main/3D%20Rigidbody%20Movement) to test the sample scene in Unity.
 
 ##  2.2. C# Script
 if you only need the ["Movement"-Script](https://github.com/Engin1999/Unity-3D-Rigidbody-Movement/blob/main/3D%20Rigidbody%20Movement/Assets/Scripts/Movement.cs), import it in your project:
