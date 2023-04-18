@@ -19,8 +19,7 @@ All "Project Files" are part of the sample scene.
 Import them to test the script in Unity.
 
 ##  2.2. C# Script
-if you only need the ["Movement"-Script](https://github.com/Engin1999/Unity-3D-Player-Movement-Rigidbody-/blob/main/Assets/Scripts/Movement.cs
-), import it in your project:
+if you only need the ["Movement"-Script](https://github.com/Engin1999/Unity-3D-Rigidbody-Movement/blob/main/3D%20Rigidbody%20Movement/Assets/Scripts/Movement.cs), import it in your project:
 
 ### Editor settings
 1) Have a main camera in scene
