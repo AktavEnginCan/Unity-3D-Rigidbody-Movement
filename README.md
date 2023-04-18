@@ -1,4 +1,4 @@
-# 1. Description Unity 3D-Player-Movement (Rigidbody)
+# 1. Description Unity 3D Rigidbody Movement
 This repository is about my "Movement" Script for Unity!
 With this scrpit you can have a 3D 1. & 3. person movement in your game.
 
