@@ -1,6 +1,5 @@
 # 1. Description 
-This repository is about my "Movement" Script for Unity!
-With this scrpit you can have a 3D 1. & 3. person movement in your game.
+This repository is about my "Movement" Script for Unity! This implements a 1. & 3. Person movement in your game.
 
 ## 1.1. Features
 - Transform player to direction
