@@ -6,8 +6,8 @@ This repository is about my "Movement" Script for Unity! This implements a **1. 
   - run
   - jump
 - Rotate player & camera
-  - zoom camera  (3. Person)
-  - Disable camera culling (3. Person)
+  - Zoom camera (3. Person)
+  - Prevent camera culling (3. Person)
   
 ## 1.2. Used Components
 - Rigidbody
