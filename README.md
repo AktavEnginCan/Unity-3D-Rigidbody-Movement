@@ -11,7 +11,13 @@ With this scrpit you can have a 3D 1. & 3. person movement in your game.
   - Disable camera culling (3. Person)
   
 ## 1.2. Used Assets
-[Gridbox Prototype Materials](https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127)
+- [Gridbox Prototype Materials](https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127)
+
+
+## 1.3. Used Components
+- Rigidbody
+- Capsule Collider
+
 
 # 2. Installation
 ## 2.1. Sample Scene
